@@ -1,10 +1,10 @@
 [
   {
-    "id": "Sports Channel 1 HD",
-    "url": "https://example.com/stream1/index.m3u8"
+    "id": "Link 1",
+    "url": "https://hls-harbor-livepush.akamaized.net/live_cdn/nsqIStpj8PaG-Ev/emcQJ0pGpremocy/index.m3u8"
   },
   {
-    "id": "Sports Channel 2 HD",
-    "url": "https://example.com/stream2/index.m3u8"
+    "id": "Link 2",
+    "url": "https://hls-harbor-livepush.akamaized.net/live_cdn/nsqIStpj8PaG-Ev/emcQJ0pGpremocy/index.m3u8"
   }
 ]
